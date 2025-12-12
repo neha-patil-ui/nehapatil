@@ -54,7 +54,7 @@ Tools & Platforms:
 📌 Coming soon! Building awesome projects to showcase here.
 
 📫 Connect With Me
-[LinkedIn](www.linkedin.com/in/neha-p-58b816321)
+[LinkedIn](https://www.linkedin.com/in/neha-p-58b816321)
 mailto:nehap2110@gmail.com
 
 
