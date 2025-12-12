@@ -47,8 +47,8 @@ Tools & Platforms:
 
 
 📊 GitHub Stats
-[Most Used Language](https://github-readme-stats.vercel.app/api?username=neha-patil-ui&show_icons=true&theme=radical)
-[Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=neha-patil-ui&layout=compact&theme=radical)
+[Most Used Language](https://github-readme-stats.vercel.app/api?username=nehapatil&show_icons=true&theme=radical)
+[Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nehapatil&layout=compact&theme=radical)
 
 🔥 Featured Projects
 📌 Coming soon! Building awesome projects to showcase here.
