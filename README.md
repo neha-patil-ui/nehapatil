@@ -32,8 +32,14 @@ energy and a modern skill set.
 
 ## 📂 Featured Projects
 
-🔨 Coming soon — building projects currently. Check back weekly!
+🌐 **Portfolio Website** — HTML, CSS, JavaScript
+[Live Demo](https://neha-patil-ui.github.io/my-portfolio) | [GitHub](https://github.com/neha-patil-ui/my-portfolio)
 
+⚛️ **Skill Showcase App** — React, Components, Props, useState
+[Live Demo](https://neha-patil-ui.github.io/skill-showcase) | [GitHub](https://github.com/neha-patil-ui/skill-showcase)
+
+📚 **JavaScript Practice** — Variables, Functions, Arrays, Objects, DOM
+[GitHub](https://github.com/neha-patil-ui/javascript-practice)
 ---
 
 ## 🤝 Connect With Me
