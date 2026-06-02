@@ -40,6 +40,7 @@ energy and a modern skill set.
 
 📚 **JavaScript Practice** — Variables, Functions, Arrays, Objects, DOM
 [GitHub](https://github.com/neha-patil-ui/javascript-practice)
+
 ---
 
 ## 🤝 Connect With Me
