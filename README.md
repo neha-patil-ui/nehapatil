@@ -44,6 +44,9 @@ energy and a modern skill set.
 💼 **Job Board App** — React, useEffect, Live API, Search Filter
 [Live Demo](https://neha-patil-ui.github.io/job-board) | [GitHub](https://github.com/neha-patil-ui/job-board)
 
+🤖 **AI Cover Letter Generator** — React, AI Integration, Dynamic Personalization
+[Live Demo](https://neha-patil-ui.github.io/ai-cover-letter) | [GitHub](https://github.com/neha-patil-ui/ai-cover-letter)
+
 ---
 
 ## 🤝 Connect With Me
