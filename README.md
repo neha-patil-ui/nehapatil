@@ -41,6 +41,9 @@ energy and a modern skill set.
 📚 **JavaScript Practice** — Variables, Functions, Arrays, Objects, DOM
 [GitHub](https://github.com/neha-patil-ui/javascript-practice)
 
+💼 **Job Board App** — React, useEffect, Live API, Search Filter
+[Live Demo](https://neha-patil-ui.github.io/job-board) | [GitHub](https://github.com/neha-patil-ui/job-board)
+
 ---
 
 ## 🤝 Connect With Me
